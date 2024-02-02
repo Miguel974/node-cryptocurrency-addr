@@ -1,0 +1,23 @@
+{
+    "name": "cryptocurrency-addr",
+    "version": "0.0.2",
+    "main": "cryptocurrencyaddr",
+    "author": {
+        "name": "Jonathan Horowitz",
+        "email": "jhorowitz@aod-tech.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Invader444/node-cryptocurrency-addr.git"
+    },
+    "dependencies": {
+        "bindings": "^1.3.0",
+        "nan": "^2.6.2"
+    },
+    "keywords": [
+        "bitcoin",
+        "bitcoincash",
+        "digibyte",
+        "raven"
+    ]
+}
